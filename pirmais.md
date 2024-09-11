@@ -1,0 +1,1 @@
+Laukā saule spīd.
