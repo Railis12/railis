@@ -1,1 +1,1 @@
-Laukā saule spīd.
+Laukā saule spīd.  a ja? juuu
