@@ -1,0 +1,5 @@
+input_file=open("data.txt", "r")
+content=input_file.read()
+input_file.close()
+x=content.count("a")
+print(x)
