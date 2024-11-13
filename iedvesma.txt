@@ -1,1 +1,1 @@
-& C:/Users/Skolnieks2/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Skolnieks2/Documents/Renards/railis/Jaunsiedvesmas.py
+cau
